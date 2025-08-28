@@ -1,6 +1,6 @@
 # FAQ for development
 
-## Introduction
+### Introduction
 
 ### Integration tests fail
 
